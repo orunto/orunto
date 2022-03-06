@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @orunto
 - 👀 I’m interested in frontend web development, internet of things and game development.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently prefecting React
 <!---  💞️ I’m looking to collaborate on ... --->
 <!--- 📫 How to reach me ... --->
 
