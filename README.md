@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @orunto
-- 👀 I’m interested in frontend web development, internet of things and game development.
-- 🌱 I’m currently prefecting React
-<!---  💞️ I’m looking to collaborate on ... --->
-<!--- 📫 How to reach me ... --->
+# Orunto Eniola here! 👋
+I am a self taught Front End Engineer building projects with <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> coupled with <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
 
-<!---
-orunto/orunto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##
