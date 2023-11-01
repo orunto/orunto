@@ -1,51 +1,67 @@
-<div id="header" align="center">
-<!-- <img src="https://user-images.githubusercontent.com/100206676/170786540-2b9fc39c-e2cc-42bd-81a5-dd955a9d2aa4.png"![STK-20220527-WA0012]()
- width="175"/> -->
-    <div id="badges">
-      <a href="https://www.linkedin.com/in/eniola-orunto-40b904179/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-      <a href="https://www.twitter.com/0runto">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-      </a>
-  <br><img src="https://komarev.com/ghpvc/?username=balotofi&style=flat-square&color=blue" alt=""/>
-  <h1>
-  Welcome to the Github profile of Orunto Eniola
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px2" />
-  </h1>
-    </div>
-</div>
+# Hi, my name is Orunto Eniola
+I like software A LOT and I won't stop talking about it here
+<br/>
+<br/>
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>](https://www.linkedin.com/in/eniola-orunto-40b904179/)
+&nbsp; 
+[<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'/>](https://twitter.com/0runto)
+&nbsp;
+[<img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white'/>](https://dev.to/orunto)
+&nbsp;
+[<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white'/>](https://medium.com/orunto)&nbsp; 
 
+<br/>
 
-<h3 align='center'> 💻&nbsp&nbspFrontend Developer | MERN Stack | IOT and Robotics enthusiast | Gamer&nbsp&nbsp 💻</h3>
+## About me
+I’m a frontend engineer and robotics/IOT enthusiast passionate about building impactful products with incredible user experiences. I currently focused on impacting the world of fashion tech at [Softdrobe](https://softdrobe.com)
 
-# :woman_technologist: About Me
+View my portfolio <a href="https://orunto-dot-dev.vercel.app">here</a>
 
-I'm a frontend developer from Nigeria.
+### My Stack
+#### Front End Web Development
+<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
+&nbsp;
+<img src='https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white'/>
+&nbsp; 
+<img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
+&nbsp; 
+<img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'/>
+&nbsp; 
+<img src='https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue'/>
+&nbsp; 
+<img src='https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E'/>
 
-🍚 I love food.
+<br/>
 
-👀 I’m interested in robotics and automated systems
+#### IOT/ Robotics
+<img src='https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white'/>
+&nbsp; 
+<img src='https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white'/>
+&nbsp; 
 
-🌱 I’m currently learning frontend development with React
+<br/>
 
-I game a lot so I'd love to mod them as well
+#### Version Control
+<img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'/>
 
-💞️ I’m looking to collaborating on interesting projects relating to Frontend development and
+<br/>
 
-# :hammer_and_wrench: Languages and Tools :
+#### Currently Learning
+<img src='https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white'/>
+&nbsp; 
+<img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'/>
+&nbsp; 
+<img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'/>
+&nbsp; 
+<img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'/>
+&nbsp; 
+<img src='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D'/>
+&nbsp; 
+<img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'/>
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>
-</div>
+<br/>
 
-
-# :fire: My Stats :
-
-<div align='center'>
+## Github Stats
   <a href="https://github.com/mmpacker/github-readme-stats">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=orunto&theme=vision-friendly-dark&show_icons=true" />
   </a>&nbsp&nbsp
@@ -55,18 +71,9 @@ I game a lot so I'd love to mod them as well
   <a href="https://github.com/mmpacker/github-readme-stats">
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=orunto&theme=vision-friendly-dark" />
   </a>
-</div>
 
-<hr/>
 
-<h4>I'm currently open to new career opportunities and project collaborations!</h4>
-<div>
-  <span>&nbsp&nbsp&nbsp📧&nbsp&nbsp&nbsp<strong>Email me</strong> at: <strong><em><a href='mailto: oruntoeniola@gmail.com'>oruntoeniola@gmail.com</a></em></strong></span><br>
-  <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspor</span><br>
-  <span>&nbsp&nbsp&nbsp🔗&nbsp&nbsp&nbsp<strong>Connect with me</strong> on <strong><em><a href='https://www.linkedin.com/in/eniola-orunto-40b904179/'>LinkedIn</a></em></strong></span>
-</div>
 
-<!---
-balotofi/balotofi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
