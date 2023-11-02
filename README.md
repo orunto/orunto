@@ -1,7 +1,7 @@
 # Hi, my name is Orunto Eniola
 I like software A LOT and I won't stop talking about it here
-<br/>
-<br/>
+<br>
+<br>
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>](https://www.linkedin.com/in/eniola-orunto-40b904179/)
 &nbsp; 
 [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'/>](https://twitter.com/0runto)
@@ -9,8 +9,6 @@ I like software A LOT and I won't stop talking about it here
 [<img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white'/>](https://dev.to/orunto)
 &nbsp;
 [<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white'/>](https://medium.com/orunto)&nbsp; 
-
-<br/>
 
 ## About me
 I’m a frontend engineer and robotics/IOT enthusiast passionate about building impactful products with incredible user experiences. I currently focused on impacting the world of fashion tech at [Softdrobe](https://softdrobe.com)
@@ -31,20 +29,14 @@ View my portfolio <a href="https://orunto-dot-dev.vercel.app">here</a>
 &nbsp; 
 <img src='https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E'/>
 
-<br/>
-
 #### IOT/ Robotics
 <img src='https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white'/>
 &nbsp; 
 <img src='https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white'/>
 &nbsp; 
 
-<br/>
-
 #### Version Control
 <img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'/>
-
-<br/>
 
 #### Currently Learning
 <img src='https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white'/>
@@ -58,8 +50,6 @@ View my portfolio <a href="https://orunto-dot-dev.vercel.app">here</a>
 <img src='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D'/>
 &nbsp; 
 <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'/>
-
-<br/>
 
 ## Github Stats
   <a href="https://github.com/mmpacker/github-readme-stats">
