@@ -15,6 +15,14 @@ I’m a frontend engineer and robotics/IOT enthusiast passionate about building 
 
 View my portfolio <a href="https://orunto-dot-dev.vercel.app">here</a>
 
+## Community Particpation
+### Hactoberfest 2023
+[![An image of @orunto's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/orunto)](https://holopin.io/@orunto)
+
+[EduHub](https://github.com/devvspaces/EduHub/graphs/contributors)
+\
+[Studypal](https://github.com/devvspaces/studypal/graphs/contributors)
+
 ### My Stack
 #### Front End Web Development
 <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
@@ -61,6 +69,8 @@ View my portfolio <a href="https://orunto-dot-dev.vercel.app">here</a>
   <a href="https://github.com/mmpacker/github-readme-stats">
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=orunto&theme=vision-friendly-dark" />
   </a>
+
+
 
 
 
