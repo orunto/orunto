@@ -19,12 +19,16 @@ View my portfolio <a href="https://orunto-dot-dev.vercel.app">here</a>
 ### Hactoberfest 2023
 [![An image of @orunto's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/orunto)](https://holopin.io/@orunto)
 
-[EduHub](https://github.com/devvspaces/EduHub/graphs/contributors)
-\
-[Studypal](https://github.com/devvspaces/studypal/graphs/contributors)
+#### The repositories I contributed to
 
-### My Stack
-#### Front End Web Development
+[<button style="padding: 4px 16px; font-size: 12px; font-weight: bold; text-transform: uppercase; background-color: green; color: white; border: none; cursor: pointer">EduHub</button>](https://github.com/devvspaces/EduHub/graphs/contributors)
+&nbsp;
+[<button style="padding: 4px 16px; font-size: 12px; font-weight: bold; text-transform: uppercase; background-color: purple; color: white; border: none; cursor: pointer">Studypal</button>](https://github.com/devvspaces/studypal/graphs/contributors)
+<br>
+<br>
+
+## My Stack
+### Front End Web Development
 <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
 &nbsp;
 <img src='https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white'/>
