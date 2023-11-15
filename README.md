@@ -21,9 +21,9 @@ View my portfolio <a href="https://orunto-dot-dev.vercel.app">here</a>
 
 #### The repositories I contributed to
 
-[<button style="padding: 4px 16px; font-size: 12px; font-weight: bold; text-transform: uppercase; background-color: green; color: white; border: none; cursor: pointer">EduHub</button>](https://github.com/devvspaces/EduHub/graphs/contributors)
+<a href="https://github.com/devvspaces/EduHub/graphs/contributors"><button style="padding: 4px 16px; font-size: 12px; font-weight: bold; text-transform: uppercase; background-color: green; color: white; border: none; cursor: pointer">EduHub</button></a>
 &nbsp;
-[<button style="padding: 4px 16px; font-size: 12px; font-weight: bold; text-transform: uppercase; background-color: purple; color: white; border: none; cursor: pointer">Studypal</button>](https://github.com/devvspaces/studypal/graphs/contributors)
+<a href="https://github.com/devvspaces/studypal/graphs/contributors"><button style="padding: 4px 16px; font-size: 12px; font-weight: bold; text-transform: uppercase; background-color: purple; color: white; border: none; cursor: pointer">Studypal</button></a>
 <br>
 <br>
 
