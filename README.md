@@ -65,7 +65,7 @@ View my portfolio <a href="https://orunto-dot-dev.vercel.app">here</a>
 
 ## Github Stats
   <a href="https://github.com/orunto/github-readme-stats">
-    <img height=200 src="https://github-readme-stats-gamma-six-67.vercel.app/api?username=orunto&theme=vision-friendly-dark&show_icons=true&include_all_commits=true" />
+    <img height=200 src="https://github-readme-stats-gamma-six-67.vercel.app/api?username=orunto&theme=vision-friendly-dark&show_icons=true" />
   </a>&nbsp&nbsp
   <a href="https://git.io/streak-stats">
     <img height=200 src="http://github-readme-streak-stats.herokuapp.com?user=orunto&theme=dark&background=000000" />
