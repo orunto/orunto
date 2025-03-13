@@ -3,12 +3,8 @@ I like software A LOT and I won't stop talking about it here
 \
 \
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>](https://www.linkedin.com/in/eniola-orunto-40b904179/)
-&nbsp; 
-[<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'/>](https://twitter.com/0runto)
 &nbsp;
-[<img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white'/>](https://dev.to/orunto)
-&nbsp;
-[<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white'/>](https://medium.com/orunto)&nbsp; 
+[<img src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white'/>](https://dev.to/orunto)&nbsp;
 
 ## About me
 I’m a frontend engineer and robotics/IOT enthusiast passionate about building impactful products with incredible user experiences. I currently focused on impacting the world of fashion tech at [Softdrobe](https://softdrobe.com)
