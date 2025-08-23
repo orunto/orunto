@@ -31,6 +31,9 @@ View my portfolio <a href="https://orunto-dot-dev.vercel.app">here</a>
 <img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'/>&nbsp; 
 <img src='https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue'/>&nbsp; 
 <img src='https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E'/>&nbsp; 
+<img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'/>&nbsp; 
+<img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'/>&nbsp; 
+<img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'/>&nbsp; 
 
 #### IOT/ Robotics
 <img src='https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white'/>&nbsp; 
@@ -42,10 +45,7 @@ View my portfolio <a href="https://orunto-dot-dev.vercel.app">here</a>
 #### Currently Learning
 <img src='https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white'/>&nbsp; 
 <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'/>&nbsp; 
-<img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'/>&nbsp; 
-<img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'/>&nbsp; 
 <img src='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D'/>&nbsp; 
-<img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'/>&nbsp; 
 
 ## Github Stats
   <a href="https://github.com/orunto/github-readme-stats">
