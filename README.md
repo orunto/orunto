@@ -9,7 +9,7 @@ I like software A LOT and I won't stop talking about it here
 ## About me
 I’m a frontend engineer and robotics/IOT enthusiast passionate about building impactful products with incredible user experiences. I currently focused on impacting the world of fashion tech at [Softdrobe](https://softdrobe.com)
 
-View my portfolio <a href="https://orunto-dot-dev.vercel.app">here</a>
+View my portfolio <a href="https://orunto.vercel.app">here</a>
 
 ## Community Particpation
 ### Hactoberfest 2023
